@@ -14,4 +14,4 @@ num2 = int(num2)
 result = num1 + num2
 
 # Displaying the result
-print(f"The sum of {num1} and {num2} is {result}.")
+print(f"---------------\n The sum of {num1} and {num2} is {result}.")
